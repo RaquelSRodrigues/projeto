@@ -10,5 +10,5 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </div>
 
-<img src="" alt="Sua Foto" width="150"/>
+<img src="minha foto.jpeg" alt="Sua Foto" width="150"/>
 
